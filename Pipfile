@@ -10,7 +10,7 @@ ghapi = "*"
 gunicorn = "*"
 
 [dev-packages]
-black = "==24.1.1"
+black = "==24.3.0"
 
 [requires]
 python_version = "3.11.4"
